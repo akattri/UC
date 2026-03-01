@@ -1,2 +1,2 @@
 # UC1&2
-check feature branch for oops.java for uc1
+check feature branch of oops.java for uc1
